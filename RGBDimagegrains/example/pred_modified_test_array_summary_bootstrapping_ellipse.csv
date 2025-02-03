@@ -1,0 +1,2 @@
+Image/Masks,number of grains,D16,CI D16 (95%),D50,CI D50 (95%),D84,CI D84 (95%),D96,CI D96 (95%),unit,axis,method,grain approximation
+pred_modified_test_array,653,10.2,[10.5 11.4],15.4,[16.  17.4],28.2,[28.3 33.2],57.8,[49.  71.6],mm,b-axis,bootstrapping,ellipse
