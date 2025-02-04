@@ -1,4 +1,4 @@
-# 📌 Project Name
+# 📌 RGBDimagegrains
 
 [![License](https://img.shields.io/github/license/your-username/your-repo)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/your-username/your-repo)](https://github.com/birard/RGBDimagegrains/issues)
@@ -23,4 +23,7 @@ conda create -n RGBDimagegrains python==3.8.17
 conda activate RGBDimagegrains
 git clone https://github.com/birard/RGBDimagegrains
 cd your-dir
-pip install -r requirements.txt  
+pip install -r requirements.txt
+
+##### Usage
+The following is a practical example of the operation process for RGBDimagegrains and RGBDgrains: https://www.youtube.com/watch?v=i9PZDbwDekc.
