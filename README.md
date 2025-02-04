@@ -1,8 +1,8 @@
 # 📌 RGBDimagegrains
 
-[![License](https://img.shields.io/github/license/your-username/your-repo)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/your-username/your-repo)](https://github.com/birard/RGBDimagegrains/issues)
-[![Stars](https://img.shields.io/github/stars/your-username/your-repo)](https://github.com/your-username/your-repo/stargazers)
+[![Issues](https://img.shields.io/github/issues/birard/RGBDimagegrains)](https://github.com/birard/RGBDimagegrains/issues)
+[![Code Size](https://img.shields.io/github/languages/code-size/birard/RGBDimagegrains)](https://github.com/birard/RGBDimagegrains)
+
 
 ## 📖 Introduction
 
@@ -16,14 +16,16 @@ RGBDimagegrains is a grain size image recognition software that integrates RGB-D
 
 ### Prerequisites
 - **Required software** ( Python )
+### Prerequisites
+- **Required software** (Python)
 
-#### Installation 
+### Installation
 ```bash
 conda create -n RGBDimagegrains python==3.8.17
 conda activate RGBDimagegrains
 git clone https://github.com/birard/RGBDimagegrains
 cd your-dir
 pip install -r requirements.txt
-
+```
 ##### Usage
 The following is a practical example of the operation process for RGBDimagegrains and RGBDgrains: https://www.youtube.com/watch?v=i9PZDbwDekc.
