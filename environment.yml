@@ -1,4 +1,4 @@
-name: pebble_and_imagegrains
+name: RGBDimagegrains
 channels:
   - defaults
 dependencies:
