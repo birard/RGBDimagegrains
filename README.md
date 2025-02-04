@@ -19,10 +19,8 @@ RGBDimagegrains is a grain size image recognition software that integrates RGB-D
 
 #### Installation 
 ```bash
+conda create -n RGBDimagegrains python==3.8.17
+conda activate RGBDimagegrains
 git clone https://github.com/birard/RGBDimagegrains
 cd your-dir
-
 pip install -r requirements.txt  
-
-
-
