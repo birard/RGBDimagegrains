@@ -14,6 +14,7 @@ RGBDimagegrains is a grain size image recognition software that integrates RGB-D
 - Stringer, C.A., Pachitariu, M., (2021). Cellpose: a generalist algorithm for cellular segmentation. Nat Methods 18, 100–106. https://doi.org/10.1038/s41592-020-01018-x.
 - Benjamin, Purinton., Bodo, Bookhagen., (2019). Introducing PebbleCounts: a grain-sizing tool for photo surveys of dynamic gravel-bed rivers. Earth Surface Dynamics 7, 859-877. https://doi.org/10.1002/esp.5782.
 
+## 🛠️ Work
 ### Prerequisites
 - **Required software** ( Python )
 
